@@ -20,7 +20,7 @@ Puedes acceder al frontend funcional de este proyecto en el siguiente enlace:
 👨‍🏫 Usuario Profesor:
   Correo:    profesor@prueba.com
   Contraseña: 123456789
-
+````
 **NOTA IMPORTANTE:** Este proyecto es un entorno de pruebas. NO subas documentos reales, confidenciales ni sensibles. Toda la información puede ser eliminada o reiniciada en cualquier momento.
 
 # 🛠️ Backend – Prototipo "Panyqueso"
@@ -49,11 +49,9 @@ npm install
 Crea un archivo `.env` en la raíz del proyecto con las siguientes variables:
 
 ```env
-PORT=3000
-DATABASE_URL=postgres://usuario:password@localhost:5432/nombre_base_datos
-JWT_SECRET=tu_clave_secreta
+JWT_SECRET=ESCRIBE TU CLAVE SEGURA
 SUPABASE_URL=https://xyzcompany.supabase.co
-SUPABASE_KEY=tu_clave_supabase
+SUPABASE_KEY= CLAVE DEL SUPABASE
 ```
 
 ---
