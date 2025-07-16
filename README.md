@@ -104,7 +104,3 @@ Puedes acceder al frontend funcional de este proyecto en el siguiente enlace:
 📫 [danflorezmartinez@gmail.com](mailto:danflorezmartinez@gmail.com)
 
 ---
-
-## 📝 Licencia
-
-Este proyecto está licenciado bajo la licencia **ISC**.
